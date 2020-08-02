@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 
-// ---------class Comp of Square----------
+// ---------Class Comp of Square----------
 
 // class Square extends React.Component {
 //   render() {
